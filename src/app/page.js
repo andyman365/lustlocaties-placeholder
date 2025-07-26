@@ -40,7 +40,7 @@ export default function Home() {
           maxWidth: "300px",
         }}
       >
-        Hier komt binnenkort iets spannend…
+        Hier komt binnenkort iets spannend… :)
       </h1>
     </main>
   );
